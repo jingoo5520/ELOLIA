@@ -43,9 +43,9 @@
 - **서버:** Apache Tomcat
 
 ## Previews
-user-index
+### user-index
 ![user_index](https://github.com/user-attachments/assets/3b2854b9-673b-428f-a4ec-ba8856d133a7)
 
-admin-index
-
+### admin-index
+![admin_index](https://github.com/user-attachments/assets/89791115-24d2-4b9f-91b6-06e17d680f44)
   
