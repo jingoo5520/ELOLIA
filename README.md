@@ -1,6 +1,8 @@
 # Accessory Shop Web Application
 악세서리 쇼핑몰 웹 시스템
 
+
+
 ## Table of Contents
 - [About the Project](#about-the-project)
 - [Features](#features)
@@ -11,6 +13,7 @@
 - **개발 기간:** 2024년 9월 25일 ~ 2024년 11월 21일
 - **팀 구성:** 7명
 - **담당 역할:** 팀장 및 백엔드 개발
+- **배포 주소:** [http://aabbcc1121.cafe24.com](http://aabbcc1121.cafe24.com)
 
 ## Features
 - **사용자**
@@ -40,5 +43,9 @@
 - **서버:** Apache Tomcat
 
 ## Previews
+user-index
 ![user_index](https://github.com/user-attachments/assets/3b2854b9-673b-428f-a4ec-ba8856d133a7)
+
+admin-index
+
   
